@@ -2,8 +2,6 @@
 
 A beautifully designed, highly responsive interactive digital anniversary card created to celebrate a decade of marriage. This project functions as both a meaningful personal gift and a production-ready component for a frontend developer portfolio, demonstrating clean UI/UX layout design, dynamic DOM manipulation, and smooth asset management.
 
-Live Demo: [View the Live Project Hosted on GitHub Pages](YOUR_GITHUB_PAGES_LINK_HERE)
-
 ## 🎨 Visual Identity & Styling
 The design pivots away from standard themes to feature a highly custom, modern romance aesthetic:
 *   **Base Color:** Deep, rich reddish-purple (`#6b1d3f`) to provide a luxurious, warm backdrop.
